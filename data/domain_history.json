@@ -1,1 +1,32 @@
-{}
+{
+  "iphone-battery-saving-settings": {
+    "first_seen": "2026-08-08",
+    "seen_weeks": 1,
+    "category": "MONEY",
+    "last_seen": "2026-08-08"
+  },
+  "toddler-home-activity-content": {
+    "first_seen": "2026-08-08",
+    "seen_weeks": 1,
+    "category": "RELAX",
+    "last_seen": "2026-08-08"
+  },
+  "partner-couple-home-activity-content": {
+    "first_seen": "2026-08-08",
+    "seen_weeks": 1,
+    "category": "RELAX",
+    "last_seen": "2026-08-08"
+  },
+  "high-yield-savings-account": {
+    "first_seen": "2026-08-08",
+    "seen_weeks": 1,
+    "category": "MONEY",
+    "last_seen": "2026-08-08"
+  },
+  "excessive-stress-relief-content": {
+    "first_seen": "2026-08-08",
+    "seen_weeks": 1,
+    "category": "RELAX",
+    "last_seen": "2026-08-08"
+  }
+}
