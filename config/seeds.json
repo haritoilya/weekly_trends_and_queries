@@ -1,0 +1,37 @@
+{
+  "TIME": {
+    "label_ru": "Время", "label_en": "Time-saving",
+    "seeds": [
+      {"phrase": "how to save time on", "lang": "en"},
+      {"phrase": "как сэкономить время на", "lang": "ru"},
+      {"phrase": "cómo ahorrar tiempo en", "lang": "es"},
+      {"phrase": "como economizar tempo em", "lang": "pt"},
+      {"phrase": "cara menghemat waktu", "lang": "id"}
+    ]
+  },
+  "MONEY": {
+    "label_ru": "Деньги", "label_en": "Money",
+    "seeds": [
+      {"phrase": "how to make extra money", "lang": "en"},
+      {"phrase": "как заработать дополнительно", "lang": "ru"},
+      {"phrase": "cómo ganar dinero extra", "lang": "es"},
+      {"phrase": "como ganhar dinheiro extra", "lang": "pt"},
+      {"phrase": "cara menghasilkan uang tambahan", "lang": "id"},
+      {"phrase": "how to save money on", "lang": "en"},
+      {"phrase": "как сэкономить на", "lang": "ru"}
+    ]
+  },
+  "RELAX": {
+    "label_ru": "Расслабон", "label_en": "Entertainment",
+    "seeds": [
+      {"phrase": "fun things to do at home", "lang": "en"},
+      {"phrase": "чем заняться на выходных", "lang": "ru"},
+      {"phrase": "cosas divertidas para hacer", "lang": "es"},
+      {"phrase": "coisas divertidas para fazer", "lang": "pt"},
+      {"phrase": "cara menghilangkan stres", "lang": "id"},
+      {"phrase": "best games to play with friends", "lang": "en"},
+      {"phrase": "как расслабиться после работы", "lang": "ru"}
+    ]
+  },
+  "exclude_terms": ["brand names", "celebrity names", "specific movie/game titles"]
+}
