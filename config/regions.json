@@ -1,1 +1,9 @@
-
+{
+  "US":       {"countries": ["US"], "lang": "en"},
+  "EU":       {"countries": ["DE", "FR", "ES", "IT", "GB"], "lang": "en"},
+  "LatAm":    {"countries": ["BR", "MX", "AR"], "lang": "es"},
+  "CIS":      {"countries": ["UA", "KZ"], "lang": "ru"},
+  "Asia":     {"countries": ["IN", "ID", "PH"], "lang": "en"},
+  "AfricaME": {"countries": ["NG", "TR"], "lang": "en"},
+  "Russia":   {"countries": ["RU"], "lang": "ru"}
+}
