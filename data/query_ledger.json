@@ -1,1 +1,201 @@
-{}
+{
+  "kalshi-prediction-markets": {
+    "first_seen": "2026-08-09",
+    "status": "signal",
+    "weekly": {
+      "2026-08-09": {
+        "interest_avg": 11,
+        "regions": {
+          "US": 100,
+          "EU": 6,
+          "LatAm": 8,
+          "CIS": null,
+          "Asia": 4,
+          "AfricaME": 4,
+          "Russia": 1
+        },
+        "traffic": 1000
+      }
+    }
+  },
+  "physical-media-resurgence": {
+    "first_seen": "2026-08-09",
+    "status": "signal",
+    "weekly": {
+      "2026-08-09": {
+        "interest_avg": 26,
+        "regions": {
+          "US": 78,
+          "EU": 20,
+          "LatAm": 12,
+          "CIS": 8,
+          "Asia": 20,
+          "AfricaME": 12,
+          "Russia": 2
+        },
+        "traffic": 200
+      }
+    }
+  },
+  "syntara-messenger-app": {
+    "first_seen": "2026-08-09",
+    "status": "signal",
+    "weekly": {
+      "2026-08-09": {
+        "interest_avg": 0,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": 0
+        },
+        "traffic": 200
+      }
+    }
+  },
+  "currency-exchange-rate-check": {
+    "first_seen": "2026-08-09",
+    "status": "routine",
+    "weekly": {
+      "2026-08-09": {
+        "country_volume": {
+          "RU": 1000,
+          "UA": 1500,
+          "KZ": 100,
+          "MX": 500
+        },
+        "traffic": 3100
+      }
+    }
+  },
+  "gold-price-check": {
+    "first_seen": "2026-08-09",
+    "status": "routine",
+    "weekly": {
+      "2026-08-09": {
+        "country_volume": {
+          "RU": 2000,
+          "UA": 1000,
+          "TR": 200
+        },
+        "traffic": 3200
+      }
+    }
+  },
+  "electricity-price-check-next-day": {
+    "first_seen": "2026-08-09",
+    "status": "routine",
+    "weekly": {
+      "2026-08-09": {
+        "country_volume": {
+          "ES": 500
+        },
+        "traffic": 500
+      }
+    }
+  },
+  "fuel-price-check": {
+    "first_seen": "2026-08-09",
+    "status": "routine",
+    "weekly": {
+      "2026-08-09": {
+        "country_volume": {
+          "TR": 5000,
+          "GB": 500
+        },
+        "traffic": 5500
+      }
+    }
+  },
+  "interest-rate-check": {
+    "first_seen": "2026-08-09",
+    "status": "routine",
+    "weekly": {
+      "2026-08-09": {
+        "country_volume": {
+          "RU": 2000,
+          "TR": 5000
+        },
+        "traffic": 7000
+      }
+    }
+  },
+  "employment-job-search": {
+    "first_seen": "2026-08-09",
+    "status": "routine",
+    "weekly": {
+      "2026-08-09": {
+        "country_volume": {
+          "ES": 1000,
+          "TR": 1000
+        },
+        "traffic": 2000
+      }
+    }
+  },
+  "pension-retirement-planning": {
+    "first_seen": "2026-08-09",
+    "status": "routine",
+    "weekly": {
+      "2026-08-09": {
+        "country_volume": {
+          "RU": 5000,
+          "GB": 10000,
+          "TR": 50000
+        },
+        "traffic": 65000
+      }
+    }
+  },
+  "market-price-check-silver-stock-index": {
+    "first_seen": "2026-08-09",
+    "status": "routine",
+    "weekly": {
+      "2026-08-09": {
+        "country_volume": {
+          "ID": 400
+        },
+        "traffic": 400
+      }
+    }
+  },
+  "bank-deposit-savings-rate-check": {
+    "first_seen": "2026-08-09",
+    "status": "routine",
+    "weekly": {
+      "2026-08-09": {
+        "country_volume": {
+          "RU": 10000
+        },
+        "traffic": 10000
+      }
+    }
+  },
+  "government-benefit-estimate-tracking": {
+    "first_seen": "2026-08-09",
+    "status": "routine",
+    "weekly": {
+      "2026-08-09": {
+        "country_volume": {
+          "US": 25000
+        },
+        "traffic": 25000
+      }
+    }
+  },
+  "student-loan-debt-tracking": {
+    "first_seen": "2026-08-09",
+    "status": "routine",
+    "weekly": {
+      "2026-08-09": {
+        "country_volume": {
+          "US": 100
+        },
+        "traffic": 100
+      }
+    }
+  }
+}
