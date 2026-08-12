@@ -15,6 +15,19 @@
           "Russia": 1
         },
         "traffic": 1000
+      },
+      "2026-08-12": {
+        "interest_avg": 11,
+        "regions": {
+          "US": 100,
+          "EU": 6,
+          "LatAm": 7,
+          "CIS": null,
+          "Asia": 4,
+          "AfricaME": 4,
+          "Russia": 1
+        },
+        "traffic": 1000
       }
     }
   },
@@ -32,6 +45,19 @@
           "Asia": 20,
           "AfricaME": 12,
           "Russia": 2
+        },
+        "traffic": 200
+      },
+      "2026-08-12": {
+        "interest_avg": 27,
+        "regions": {
+          "US": 76,
+          "EU": 21,
+          "LatAm": 11,
+          "CIS": 7,
+          "Asia": 20,
+          "AfricaME": 13,
+          "Russia": null
         },
         "traffic": 200
       }
@@ -53,6 +79,19 @@
           "Russia": 0
         },
         "traffic": 200
+      },
+      "2026-08-12": {
+        "interest_avg": 0,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": 0
+        },
+        "traffic": null
       }
     }
   },
@@ -68,6 +107,14 @@
           "MX": 500
         },
         "traffic": 3100
+      },
+      "2026-08-12": {
+        "country_volume": {
+          "KZ": 1000,
+          "AR": 500,
+          "TR": 200
+        },
+        "traffic": 1700
       }
     }
   },
@@ -82,6 +129,15 @@
           "TR": 200
         },
         "traffic": 3200
+      },
+      "2026-08-12": {
+        "country_volume": {
+          "DE": 20000,
+          "IN": 2000,
+          "RU": 500,
+          "TR": 200
+        },
+        "traffic": 22700
       }
     }
   },
@@ -107,6 +163,17 @@
           "GB": 500
         },
         "traffic": 5500
+      },
+      "2026-08-12": {
+        "country_volume": {
+          "TR": 20000,
+          "NG": 10000,
+          "DE": 2000,
+          "FR": 1000,
+          "PH": 100,
+          "GB": 100
+        },
+        "traffic": 33200
       }
     }
   },
@@ -120,6 +187,12 @@
           "TR": 5000
         },
         "traffic": 7000
+      },
+      "2026-08-12": {
+        "country_volume": {
+          "TR": 200
+        },
+        "traffic": 200
       }
     }
   },
@@ -133,6 +206,13 @@
           "TR": 1000
         },
         "traffic": 2000
+      },
+      "2026-08-12": {
+        "country_volume": {
+          "IN": 2000,
+          "UA": 100
+        },
+        "traffic": 2100
       }
     }
   },
@@ -147,6 +227,14 @@
           "TR": 50000
         },
         "traffic": 65000
+      },
+      "2026-08-12": {
+        "country_volume": {
+          "TR": 10000,
+          "RU": 500,
+          "IN": 5000
+        },
+        "traffic": 15500
       }
     }
   },
@@ -159,6 +247,16 @@
           "ID": 400
         },
         "traffic": 400
+      },
+      "2026-08-12": {
+        "country_volume": {
+          "IN": 2000,
+          "US": 100,
+          "GB": 200,
+          "MX": 500,
+          "AR": 100
+        },
+        "traffic": 2900
       }
     }
   },
@@ -171,6 +269,14 @@
           "RU": 10000
         },
         "traffic": 10000
+      },
+      "2026-08-12": {
+        "country_volume": {
+          "GB": 20000,
+          "DE": 2000,
+          "TR": 2000
+        },
+        "traffic": 24000
       }
     }
   },
@@ -183,6 +289,14 @@
           "US": 25000
         },
         "traffic": 25000
+      },
+      "2026-08-12": {
+        "country_volume": {
+          "BR": 20000,
+          "PH": 10000,
+          "IT": 2000
+        },
+        "traffic": 32000
       }
     }
   },
@@ -195,6 +309,37 @@
           "US": 100
         },
         "traffic": 100
+      }
+    }
+  },
+  "trump-accounts-savings-program": {
+    "first_seen": "2026-08-12",
+    "status": "signal",
+    "weekly": {
+      "2026-08-12": {
+        "interest_avg": 10,
+        "regions": {
+          "US": 100,
+          "EU": 5,
+          "LatAm": 4,
+          "CIS": null,
+          "Asia": 2,
+          "AfricaME": 2,
+          "Russia": null
+        },
+        "traffic": 10000
+      }
+    }
+  },
+  "unclaimed-money-check": {
+    "first_seen": "2026-08-12",
+    "status": "routine",
+    "weekly": {
+      "2026-08-12": {
+        "country_volume": {
+          "BR": 1000
+        },
+        "traffic": 1000
       }
     }
   }
