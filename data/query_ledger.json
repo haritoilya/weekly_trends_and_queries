@@ -28,12 +28,25 @@
           "Russia": 1
         },
         "traffic": 1000
+      },
+      "2026-08-19": {
+        "interest_avg": 38,
+        "regions": {
+          "US": 100,
+          "EU": 21,
+          "LatAm": 24,
+          "CIS": null,
+          "Asia": 6,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": null
       }
     }
   },
   "physical-media-resurgence": {
     "first_seen": "2026-08-09",
-    "status": "signal",
+    "status": "confirmed_trend",
     "weekly": {
       "2026-08-09": {
         "interest_avg": 26,
@@ -60,6 +73,19 @@
           "Russia": null
         },
         "traffic": 200
+      },
+      "2026-08-19": {
+        "interest_avg": 30,
+        "regions": {
+          "US": 100,
+          "EU": 24,
+          "LatAm": 13,
+          "CIS": 8,
+          "Asia": 25,
+          "AfricaME": 13,
+          "Russia": null
+        },
+        "traffic": null
       }
     }
   },
@@ -115,6 +141,15 @@
           "TR": 200
         },
         "traffic": 1700
+      },
+      "2026-08-19": {
+        "country_volume": {
+          "FR": 200,
+          "ID": 500,
+          "MX": 700,
+          "US": 3000
+        },
+        "traffic": 4400
       }
     }
   },
@@ -138,6 +173,12 @@
           "TR": 200
         },
         "traffic": 22700
+      },
+      "2026-08-19": {
+        "country_volume": {
+          "KZ": 1000
+        },
+        "traffic": 1000
       }
     }
   },
@@ -174,6 +215,19 @@
           "GB": 100
         },
         "traffic": 33200
+      },
+      "2026-08-19": {
+        "country_volume": {
+          "ES": 400,
+          "ID": 10000,
+          "IN": 50000,
+          "IT": 10000,
+          "MX": 1000,
+          "NG": 5000,
+          "RU": 15000,
+          "US": 4500
+        },
+        "traffic": 95900
       }
     }
   },
@@ -193,6 +247,14 @@
           "TR": 200
         },
         "traffic": 200
+      },
+      "2026-08-19": {
+        "country_volume": {
+          "RU": 1000,
+          "TR": 2000,
+          "US": 2000
+        },
+        "traffic": 5000
       }
     }
   },
@@ -257,6 +319,18 @@
           "AR": 100
         },
         "traffic": 2900
+      },
+      "2026-08-19": {
+        "country_volume": {
+          "DE": 100,
+          "ES": 200,
+          "GB": 500,
+          "IN": 11300,
+          "MX": 200,
+          "TR": 200,
+          "US": 2300
+        },
+        "traffic": 14800
       }
     }
   },
@@ -277,6 +351,14 @@
           "TR": 2000
         },
         "traffic": 24000
+      },
+      "2026-08-19": {
+        "country_volume": {
+          "AR": 1000,
+          "DE": 6000,
+          "GB": 2000
+        },
+        "traffic": 9000
       }
     }
   },
@@ -297,6 +379,15 @@
           "IT": 2000
         },
         "traffic": 32000
+      },
+      "2026-08-19": {
+        "country_volume": {
+          "BR": 15000,
+          "IN": 1000,
+          "MX": 20000,
+          "PH": 10000
+        },
+        "traffic": 46000
       }
     }
   },
@@ -309,6 +400,12 @@
           "US": 100
         },
         "traffic": 100
+      },
+      "2026-08-19": {
+        "country_volume": {
+          "US": 2500
+        },
+        "traffic": 2500
       }
     }
   },
@@ -328,6 +425,19 @@
           "Russia": null
         },
         "traffic": 10000
+      },
+      "2026-08-19": {
+        "interest_avg": 100,
+        "regions": {
+          "US": 100,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": null
       }
     }
   },
@@ -340,6 +450,154 @@
           "BR": 1000
         },
         "traffic": 1000
+      }
+    }
+  },
+  "new-smartphone-flagship-release-buzz": {
+    "first_seen": "2026-08-19",
+    "status": "routine",
+    "weekly": {
+      "2026-08-19": {
+        "country_volume": {
+          "AR": 200,
+          "BR": 300,
+          "GB": 2000,
+          "ID": 5600,
+          "IN": 2200,
+          "IT": 4000,
+          "MX": 2200,
+          "NG": 1000,
+          "PH": 500,
+          "RU": 500,
+          "TR": 100,
+          "US": 1000
+        },
+        "traffic": 19600
+      }
+    }
+  },
+  "service-outage-status-check": {
+    "first_seen": "2026-08-19",
+    "status": "routine",
+    "weekly": {
+      "2026-08-19": {
+        "country_volume": {
+          "BR": 500,
+          "FR": 200,
+          "GB": 200,
+          "RU": 2000,
+          "US": 500
+        },
+        "traffic": 3400
+      }
+    }
+  },
+  "gaming-subscription-service-check": {
+    "first_seen": "2026-08-19",
+    "status": "routine",
+    "weekly": {
+      "2026-08-19": {
+        "country_volume": {
+          "BR": 200,
+          "DE": 2000,
+          "ES": 200,
+          "GB": 1000,
+          "IT": 500,
+          "US": 500
+        },
+        "traffic": 4400
+      }
+    }
+  },
+  "ios-software-update-check": {
+    "first_seen": "2026-08-19",
+    "status": "routine",
+    "weekly": {
+      "2026-08-19": {
+        "country_volume": {
+          "GB": 500,
+          "IN": 10000,
+          "NG": 500,
+          "PH": 2000,
+          "TR": 400
+        },
+        "traffic": 13400
+      }
+    }
+  },
+  "digital-ruble-cbdc": {
+    "first_seen": "2026-08-19",
+    "status": "signal",
+    "weekly": {
+      "2026-08-19": {
+        "interest_avg": 26,
+        "regions": {
+          "US": 0,
+          "EU": 0,
+          "LatAm": null,
+          "CIS": 2,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": 100
+        },
+        "traffic": 5000
+      }
+    }
+  },
+  "honor-robot-transforming-phone": {
+    "first_seen": "2026-08-19",
+    "status": "signal",
+    "weekly": {
+      "2026-08-19": {
+        "interest_avg": 47,
+        "regions": {
+          "US": 7,
+          "EU": 28,
+          "LatAm": 53,
+          "CIS": 37,
+          "Asia": 100,
+          "AfricaME": 47,
+          "Russia": 60
+        },
+        "traffic": 1000
+      }
+    }
+  },
+  "animated-motion-wallpaper-feature": {
+    "first_seen": "2026-08-19",
+    "status": "signal",
+    "weekly": {
+      "2026-08-19": {
+        "interest_avg": 32,
+        "regions": {
+          "US": 23,
+          "EU": 12,
+          "LatAm": 15,
+          "CIS": 16,
+          "Asia": 100,
+          "AfricaME": 49,
+          "Russia": 10
+        },
+        "traffic": 11000
+      }
+    }
+  },
+  "playstation-6-anticipation": {
+    "first_seen": "2026-08-19",
+    "status": "signal",
+    "weekly": {
+      "2026-08-19": {
+        "interest_avg": 58,
+        "regions": {
+          "US": 100,
+          "EU": 93,
+          "LatAm": 48,
+          "CIS": 48,
+          "Asia": 14,
+          "AfricaME": 61,
+          "Russia": 39
+        },
+        "traffic": 7000
       }
     }
   }
