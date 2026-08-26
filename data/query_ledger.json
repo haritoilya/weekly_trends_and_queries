@@ -41,6 +41,19 @@
           "Russia": null
         },
         "traffic": null
+      },
+      "2026-08-26": {
+        "interest_avg": 27,
+        "regions": {
+          "US": 100,
+          "EU": 10,
+          "LatAm": 10,
+          "CIS": null,
+          "Asia": 8,
+          "AfricaME": 6,
+          "Russia": null
+        },
+        "traffic": null
       }
     }
   },
@@ -86,12 +99,25 @@
           "Russia": null
         },
         "traffic": null
+      },
+      "2026-08-26": {
+        "interest_avg": 32,
+        "regions": {
+          "US": 90,
+          "EU": 100,
+          "LatAm": 7,
+          "CIS": 3,
+          "Asia": 18,
+          "AfricaME": 2,
+          "Russia": 2
+        },
+        "traffic": null
       }
     }
   },
   "syntara-messenger-app": {
     "first_seen": "2026-08-09",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-08-09": {
         "interest_avg": 0,
@@ -150,6 +176,14 @@
           "US": 3000
         },
         "traffic": 4400
+      },
+      "2026-08-26": {
+        "country_volume": {
+          "UA": 100,
+          "ID": 500,
+          "AR": 500
+        },
+        "traffic": 1100
       }
     }
   },
@@ -179,6 +213,13 @@
           "KZ": 1000
         },
         "traffic": 1000
+      },
+      "2026-08-26": {
+        "country_volume": {
+          "KZ": 500,
+          "US": 100
+        },
+        "traffic": 600
       }
     }
   },
@@ -228,6 +269,16 @@
           "US": 4500
         },
         "traffic": 95900
+      },
+      "2026-08-26": {
+        "country_volume": {
+          "NG": 2000,
+          "UA": 2000,
+          "KZ": 100,
+          "TR": 1000,
+          "IN": 1000
+        },
+        "traffic": 6100
       }
     }
   },
@@ -255,6 +306,12 @@
           "US": 2000
         },
         "traffic": 5000
+      },
+      "2026-08-26": {
+        "country_volume": {
+          "DE": 2000
+        },
+        "traffic": 2000
       }
     }
   },
@@ -275,6 +332,13 @@
           "UA": 100
         },
         "traffic": 2100
+      },
+      "2026-08-26": {
+        "country_volume": {
+          "ES": 500,
+          "TR": 100
+        },
+        "traffic": 600
       }
     }
   },
@@ -297,6 +361,14 @@
           "IN": 5000
         },
         "traffic": 15500
+      },
+      "2026-08-26": {
+        "country_volume": {
+          "ES": 10000,
+          "TR": 4000,
+          "AR": 2000
+        },
+        "traffic": 16000
       }
     }
   },
@@ -331,6 +403,15 @@
           "US": 2300
         },
         "traffic": 14800
+      },
+      "2026-08-26": {
+        "country_volume": {
+          "TR": 1000,
+          "GB": 100,
+          "IN": 16300,
+          "ID": 1000
+        },
+        "traffic": 18400
       }
     }
   },
@@ -359,6 +440,12 @@
           "GB": 2000
         },
         "traffic": 9000
+      },
+      "2026-08-26": {
+        "country_volume": {
+          "KZ": 500
+        },
+        "traffic": 500
       }
     }
   },
@@ -388,6 +475,13 @@
           "PH": 10000
         },
         "traffic": 46000
+      },
+      "2026-08-26": {
+        "country_volume": {
+          "UA": 2000,
+          "PH": 1000
+        },
+        "traffic": 3000
       }
     }
   },
@@ -435,6 +529,19 @@
           "CIS": null,
           "Asia": null,
           "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": null
+      },
+      "2026-08-26": {
+        "interest_avg": 23,
+        "regions": {
+          "US": 100,
+          "EU": 6,
+          "LatAm": 5,
+          "CIS": null,
+          "Asia": 1,
+          "AfricaME": 1,
           "Russia": null
         },
         "traffic": null
@@ -489,6 +596,13 @@
           "US": 500
         },
         "traffic": 3400
+      },
+      "2026-08-26": {
+        "country_volume": {
+          "UA": 1100,
+          "TR": 700
+        },
+        "traffic": 1800
       }
     }
   },
@@ -541,6 +655,19 @@
           "Russia": 100
         },
         "traffic": 5000
+      },
+      "2026-08-26": {
+        "interest_avg": 20,
+        "regions": {
+          "US": 0,
+          "EU": 0,
+          "LatAm": null,
+          "CIS": 2,
+          "Asia": 0,
+          "AfricaME": null,
+          "Russia": 100
+        },
+        "traffic": null
       }
     }
   },
@@ -560,6 +687,19 @@
           "Russia": 60
         },
         "traffic": 1000
+      },
+      "2026-08-26": {
+        "interest_avg": 43,
+        "regions": {
+          "US": 4,
+          "EU": 25,
+          "LatAm": 58,
+          "CIS": 42,
+          "Asia": 100,
+          "AfricaME": 33,
+          "Russia": 42
+        },
+        "traffic": null
       }
     }
   },
@@ -579,6 +719,19 @@
           "Russia": 10
         },
         "traffic": 11000
+      },
+      "2026-08-26": {
+        "interest_avg": 51,
+        "regions": {
+          "US": 0,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": 52,
+          "AfricaME": 100,
+          "Russia": null
+        },
+        "traffic": null
       }
     }
   },
@@ -598,6 +751,119 @@
           "Russia": 39
         },
         "traffic": 7000
+      },
+      "2026-08-26": {
+        "interest_avg": 43,
+        "regions": {
+          "US": 60,
+          "EU": 100,
+          "LatAm": 42,
+          "CIS": 34,
+          "Asia": 10,
+          "AfricaME": 36,
+          "Russia": 22
+        },
+        "traffic": null
+      }
+    }
+  },
+  "nvidia-ai-chip-stock-surge": {
+    "first_seen": "2026-08-26",
+    "status": "signal",
+    "weekly": {
+      "2026-08-26": {
+        "interest_avg": 56,
+        "regions": {
+          "US": 100,
+          "EU": 92,
+          "LatAm": 35,
+          "CIS": 43,
+          "Asia": 41,
+          "AfricaME": 35,
+          "Russia": 46
+        },
+        "traffic": 3200
+      }
+    }
+  },
+  "apple-pay-contactless-expansion": {
+    "first_seen": "2026-08-26",
+    "status": "signal",
+    "weekly": {
+      "2026-08-26": {
+        "interest_avg": 41,
+        "regions": {
+          "US": 100,
+          "EU": 57,
+          "LatAm": 13,
+          "CIS": 15,
+          "Asia": 64,
+          "AfricaME": 31,
+          "Russia": 5
+        },
+        "traffic": 10500
+      }
+    }
+  },
+  "king-charles-10p-coin-circulation": {
+    "first_seen": "2026-08-26",
+    "status": "signal",
+    "weekly": {
+      "2026-08-26": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 10000
+      }
+    }
+  },
+  "shein-fast-fashion-latam-surge": {
+    "first_seen": "2026-08-26",
+    "status": "signal",
+    "weekly": {
+      "2026-08-26": {
+        "interest_avg": 52,
+        "regions": {
+          "US": 48,
+          "EU": 100,
+          "LatAm": 78,
+          "CIS": null,
+          "Asia": 22,
+          "AfricaME": 14,
+          "Russia": null
+        },
+        "traffic": 5200
+      }
+    }
+  },
+  "ipo-listing-tracking-india": {
+    "first_seen": "2026-08-26",
+    "status": "routine",
+    "weekly": {
+      "2026-08-26": {
+        "country_volume": {
+          "IN": 48300
+        },
+        "traffic": 48300
+      }
+    }
+  },
+  "seasonal-retail-promo-check-tr": {
+    "first_seen": "2026-08-26",
+    "status": "routine",
+    "weekly": {
+      "2026-08-26": {
+        "country_volume": {
+          "TR": 60200
+        },
+        "traffic": 60200
       }
     }
   }
