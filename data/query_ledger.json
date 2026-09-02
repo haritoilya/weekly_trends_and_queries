@@ -184,6 +184,16 @@
           "AR": 500
         },
         "traffic": 1100
+      },
+      "2026-09-02": {
+        "country_volume": {
+          "DE": 1000,
+          "UA": 400,
+          "KZ": 400,
+          "ID": 600,
+          "PH": 100
+        },
+        "traffic": 2500
       }
     }
   },
@@ -220,6 +230,12 @@
           "US": 100
         },
         "traffic": 600
+      },
+      "2026-09-02": {
+        "country_volume": {
+          "IN": 200
+        },
+        "traffic": 200
       }
     }
   },
@@ -279,6 +295,15 @@
           "IN": 1000
         },
         "traffic": 6100
+      },
+      "2026-09-02": {
+        "country_volume": {
+          "ID": 5000,
+          "PH": 100,
+          "TR": 2000,
+          "RU": 50000
+        },
+        "traffic": 57100
       }
     }
   },
@@ -312,6 +337,16 @@
           "DE": 2000
         },
         "traffic": 2000
+      },
+      "2026-09-02": {
+        "country_volume": {
+          "DE": 2000,
+          "FR": 1000,
+          "AR": 200,
+          "IN": 200,
+          "RU": 5000
+        },
+        "traffic": 8400
       }
     }
   },
@@ -369,6 +404,14 @@
           "AR": 2000
         },
         "traffic": 16000
+      },
+      "2026-09-02": {
+        "country_volume": {
+          "DE": 5000,
+          "TR": 10000,
+          "RU": 200
+        },
+        "traffic": 15200
       }
     }
   },
@@ -412,6 +455,21 @@
           "ID": 1000
         },
         "traffic": 18400
+      },
+      "2026-09-02": {
+        "country_volume": {
+          "US": 18500,
+          "DE": 4200,
+          "ES": 200,
+          "IT": 500,
+          "GB": 8900,
+          "BR": 2200,
+          "IN": 3500,
+          "ID": 400,
+          "TR": 200,
+          "RU": 200
+        },
+        "traffic": 38800
       }
     }
   },
@@ -446,6 +504,16 @@
           "KZ": 500
         },
         "traffic": 500
+      },
+      "2026-09-02": {
+        "country_volume": {
+          "US": 5000,
+          "DE": 20000,
+          "ES": 5000,
+          "AR": 10000,
+          "TR": 1000
+        },
+        "traffic": 41000
       }
     }
   },
@@ -482,6 +550,15 @@
           "PH": 1000
         },
         "traffic": 3000
+      },
+      "2026-09-02": {
+        "country_volume": {
+          "IT": 10000,
+          "UA": 20000,
+          "IN": 500,
+          "TR": 1200
+        },
+        "traffic": 31700
       }
     }
   },
@@ -500,6 +577,12 @@
           "US": 2500
         },
         "traffic": 2500
+      },
+      "2026-09-02": {
+        "country_volume": {
+          "GB": 2000
+        },
+        "traffic": 2000
       }
     }
   },
@@ -603,6 +686,13 @@
           "TR": 700
         },
         "traffic": 1800
+      },
+      "2026-09-02": {
+        "country_volume": {
+          "US": 500,
+          "PH": 500
+        },
+        "traffic": 1000
       }
     }
   },
@@ -783,6 +873,19 @@
           "Russia": 46
         },
         "traffic": 3200
+      },
+      "2026-09-02": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": 100,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 200
       }
     }
   },
@@ -840,6 +943,19 @@
           "Russia": null
         },
         "traffic": 5200
+      },
+      "2026-09-02": {
+        "interest_avg": 70,
+        "regions": {
+          "US": 40,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 700
       }
     }
   },
@@ -852,6 +968,12 @@
           "IN": 48300
         },
         "traffic": 48300
+      },
+      "2026-09-02": {
+        "country_volume": {
+          "IN": 21500
+        },
+        "traffic": 21500
       }
     }
   },
@@ -864,6 +986,150 @@
           "TR": 60200
         },
         "traffic": 60200
+      },
+      "2026-09-02": {
+        "country_volume": {
+          "TR": 100
+        },
+        "traffic": 100
+      }
+    }
+  },
+  "academic-recruitment-result-check": {
+    "first_seen": "2026-09-02",
+    "status": "routine",
+    "weekly": {
+      "2026-09-02": {
+        "country_volume": {
+          "IN": 10000,
+          "TR": 5000
+        },
+        "traffic": 15000
+      }
+    }
+  },
+  "cryptocurrency-trading-interest": {
+    "first_seen": "2026-09-02",
+    "status": "routine",
+    "weekly": {
+      "2026-09-02": {
+        "country_volume": {
+          "US": 500,
+          "BR": 1000,
+          "IN": 1300,
+          "ID": 100,
+          "PH": 100,
+          "TR": 800
+        },
+        "traffic": 3800
+      }
+    }
+  },
+  "general-market-news-check": {
+    "first_seen": "2026-09-02",
+    "status": "routine",
+    "weekly": {
+      "2026-09-02": {
+        "country_volume": {
+          "US": 1500,
+          "BR": 400,
+          "MX": 1000,
+          "IN": 30000
+        },
+        "traffic": 32900
+      }
+    }
+  },
+  "mortgage-rate-check": {
+    "first_seen": "2026-09-02",
+    "status": "routine",
+    "weekly": {
+      "2026-09-02": {
+        "country_volume": {
+          "BR": 200,
+          "IN": 200,
+          "ID": 200,
+          "PH": 100
+        },
+        "traffic": 700
+      }
+    }
+  },
+  "premium-bonds-prize-checker-uk": {
+    "first_seen": "2026-09-02",
+    "status": "routine",
+    "weekly": {
+      "2026-09-02": {
+        "country_volume": {
+          "GB": 10000
+        },
+        "traffic": 10000
+      }
+    }
+  },
+  "tax-obligation-check": {
+    "first_seen": "2026-09-02",
+    "status": "routine",
+    "weekly": {
+      "2026-09-02": {
+        "country_volume": {
+          "GB": 1100,
+          "BR": 10000,
+          "MX": 100,
+          "KZ": 1500
+        },
+        "traffic": 12700
+      }
+    }
+  },
+  "utility-tariff-check": {
+    "first_seen": "2026-09-02",
+    "status": "routine",
+    "weekly": {
+      "2026-09-02": {
+        "country_volume": {
+          "UA": 10000,
+          "RU": 2000
+        },
+        "traffic": 12000
+      }
+    }
+  },
+  "starlink-satellite-internet-service": {
+    "first_seen": "2026-09-02",
+    "status": "signal",
+    "weekly": {
+      "2026-09-02": {
+        "interest_avg": 55,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": 10,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": 100
+        },
+        "traffic": 5500
+      }
+    }
+  },
+  "meutudo-brazil-lending-app": {
+    "first_seen": "2026-09-02",
+    "status": "signal",
+    "weekly": {
+      "2026-09-02": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": 100,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 10000
       }
     }
   }
