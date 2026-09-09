@@ -194,6 +194,19 @@
           "PH": 100
         },
         "traffic": 2500
+      },
+      "2026-09-09": {
+        "country_volume": {
+          "AR": 400,
+          "ID": 200,
+          "IN": 2000,
+          "KZ": 2500,
+          "MX": 500,
+          "PH": 100,
+          "UA": 1000,
+          "US": 1000
+        },
+        "traffic": 7700
       }
     }
   },
@@ -236,6 +249,14 @@
           "IN": 200
         },
         "traffic": 200
+      },
+      "2026-09-09": {
+        "country_volume": {
+          "ID": 200,
+          "IN": 5100,
+          "TR": 200
+        },
+        "traffic": 5500
       }
     }
   },
@@ -304,6 +325,16 @@
           "RU": 50000
         },
         "traffic": 57100
+      },
+      "2026-09-09": {
+        "country_volume": {
+          "DE": 52500,
+          "FR": 10500,
+          "ID": 5000,
+          "MX": 400,
+          "UA": 1000
+        },
+        "traffic": 69400
       }
     }
   },
@@ -347,6 +378,15 @@
           "RU": 5000
         },
         "traffic": 8400
+      },
+      "2026-09-09": {
+        "country_volume": {
+          "DE": 5000,
+          "IN": 5000,
+          "IT": 100,
+          "UA": 500
+        },
+        "traffic": 10600
       }
     }
   },
@@ -374,6 +414,13 @@
           "TR": 100
         },
         "traffic": 600
+      },
+      "2026-09-09": {
+        "country_volume": {
+          "IT": 1000,
+          "US": 200
+        },
+        "traffic": 1200
       }
     }
   },
@@ -412,6 +459,14 @@
           "RU": 200
         },
         "traffic": 15200
+      },
+      "2026-09-09": {
+        "country_volume": {
+          "FR": 500,
+          "IT": 100,
+          "TR": 21000
+        },
+        "traffic": 21600
       }
     }
   },
@@ -470,6 +525,24 @@
           "RU": 200
         },
         "traffic": 38800
+      },
+      "2026-09-09": {
+        "country_volume": {
+          "BR": 8900,
+          "DE": 1700,
+          "ES": 100,
+          "FR": 1500,
+          "GB": 300,
+          "ID": 2000,
+          "IN": 20200,
+          "IT": 1000,
+          "MX": 2000,
+          "NG": 500,
+          "RU": 100,
+          "TR": 3200,
+          "US": 33200
+        },
+        "traffic": 74700
       }
     }
   },
@@ -514,6 +587,14 @@
           "TR": 1000
         },
         "traffic": 41000
+      },
+      "2026-09-09": {
+        "country_volume": {
+          "DE": 500,
+          "RU": 2000,
+          "TR": 500
+        },
+        "traffic": 3000
       }
     }
   },
@@ -559,6 +640,15 @@
           "TR": 1200
         },
         "traffic": 31700
+      },
+      "2026-09-09": {
+        "country_volume": {
+          "BR": 2000,
+          "NG": 500,
+          "UA": 5000,
+          "US": 200000
+        },
+        "traffic": 207500
       }
     }
   },
@@ -640,6 +730,12 @@
           "BR": 1000
         },
         "traffic": 1000
+      },
+      "2026-09-09": {
+        "country_volume": {
+          "BR": 5000
+        },
+        "traffic": 5000
       }
     }
   },
@@ -663,6 +759,28 @@
           "US": 1000
         },
         "traffic": 19600
+      },
+      "2026-09-09": {
+        "country_volume": {
+          "AR": 500,
+          "BR": 20500,
+          "DE": 12200,
+          "ES": 15000,
+          "FR": 13500,
+          "GB": 2000,
+          "ID": 3000,
+          "IN": 147400,
+          "IT": 6500,
+          "KZ": 100,
+          "MX": 15000,
+          "NG": 3000,
+          "PH": 8700,
+          "RU": 2500,
+          "TR": 400,
+          "UA": 600,
+          "US": 20000
+        },
+        "traffic": 270900
       }
     }
   },
@@ -693,6 +811,14 @@
           "PH": 500
         },
         "traffic": 1000
+      },
+      "2026-09-09": {
+        "country_volume": {
+          "FR": 1000,
+          "GB": 100,
+          "IN": 200
+        },
+        "traffic": 1300
       }
     }
   },
@@ -710,6 +836,12 @@
           "US": 500
         },
         "traffic": 4400
+      },
+      "2026-09-09": {
+        "country_volume": {
+          "ES": 500
+        },
+        "traffic": 500
       }
     }
   },
@@ -726,6 +858,12 @@
           "TR": 400
         },
         "traffic": 13400
+      },
+      "2026-09-09": {
+        "country_volume": {
+          "DE": 100
+        },
+        "traffic": 100
       }
     }
   },
@@ -974,6 +1112,12 @@
           "IN": 21500
         },
         "traffic": 21500
+      },
+      "2026-09-09": {
+        "country_volume": {
+          "IN": 5000
+        },
+        "traffic": 5000
       }
     }
   },
@@ -1022,6 +1166,16 @@
           "TR": 800
         },
         "traffic": 3800
+      },
+      "2026-09-09": {
+        "country_volume": {
+          "DE": 300,
+          "MX": 2000,
+          "NG": 100,
+          "PH": 200,
+          "TR": 500
+        },
+        "traffic": 3100
       }
     }
   },
@@ -1037,6 +1191,13 @@
           "IN": 30000
         },
         "traffic": 32900
+      },
+      "2026-09-09": {
+        "country_volume": {
+          "GB": 5000,
+          "US": 10500
+        },
+        "traffic": 15500
       }
     }
   },
@@ -1052,6 +1213,12 @@
           "PH": 100
         },
         "traffic": 700
+      },
+      "2026-09-09": {
+        "country_volume": {
+          "GB": 2000
+        },
+        "traffic": 2000
       }
     }
   },
@@ -1079,6 +1246,15 @@
           "KZ": 1500
         },
         "traffic": 12700
+      },
+      "2026-09-09": {
+        "country_volume": {
+          "AR": 100,
+          "DE": 5000,
+          "FR": 1000,
+          "PH": 2000
+        },
+        "traffic": 8100
       }
     }
   },
@@ -1092,6 +1268,14 @@
           "RU": 2000
         },
         "traffic": 12000
+      },
+      "2026-09-09": {
+        "country_volume": {
+          "BR": 5200,
+          "DE": 100,
+          "RU": 2000
+        },
+        "traffic": 7300
       }
     }
   },
@@ -1130,6 +1314,1197 @@
           "Russia": null
         },
         "traffic": 10000
+      }
+    }
+  },
+  "credit-loan-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "AR": 10000,
+          "BR": 10000,
+          "TR": 5000
+        },
+        "traffic": 25000
+      }
+    }
+  },
+  "bakery-local-business-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "IT": 20000
+        },
+        "traffic": 20000
+      }
+    }
+  },
+  "corporate-brand-general-curiosity": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "DE": 1500,
+          "ES": 2000,
+          "GB": 2600,
+          "ID": 500,
+          "IN": 500,
+          "IT": 3200,
+          "MX": 5000,
+          "RU": 300
+        },
+        "traffic": 15600
+      }
+    }
+  },
+  "commodity-price-check": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "DE": 500,
+          "IN": 3000,
+          "RU": 200,
+          "TR": 100,
+          "UA": 10100,
+          "US": 1000
+        },
+        "traffic": 14900
+      }
+    }
+  },
+  "investment-interest-check": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "BR": 1000,
+          "FR": 1000,
+          "IN": 1000,
+          "TR": 10000,
+          "UA": 300
+        },
+        "traffic": 13300
+      }
+    }
+  },
+  "flight-tracking-tool-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "GB": 10000
+        },
+        "traffic": 10000
+      }
+    }
+  },
+  "fine-penalty-check": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "MX": 10000
+        },
+        "traffic": 10000
+      }
+    }
+  },
+  "slides-search-unclear": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "GB": 2000,
+          "US": 5000
+        },
+        "traffic": 7000
+      }
+    }
+  },
+  "streaming-service-access-check": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "GB": 2000,
+          "IT": 4000
+        },
+        "traffic": 6000
+      }
+    }
+  },
+  "energy-saving-tips-interest": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "DE": 5200
+        },
+        "traffic": 5200
+      }
+    }
+  },
+  "real-estate-housing-market-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "ES": 5000
+        },
+        "traffic": 5000
+      }
+    }
+  },
+  "checking-account-service-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "FR": 5000
+        },
+        "traffic": 5000
+      }
+    }
+  },
+  "order-tracking-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "IN": 5000
+        },
+        "traffic": 5000
+      }
+    }
+  },
+  "5g-network-technology-interest": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "RU": 5000
+        },
+        "traffic": 5000
+      }
+    }
+  },
+  "train-travel-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "FR": 2000,
+          "IN": 2000
+        },
+        "traffic": 4000
+      }
+    }
+  },
+  "docs-app-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "FR": 200,
+          "GB": 2000
+        },
+        "traffic": 2200
+      }
+    }
+  },
+  "weather-app-usage-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "IT": 200,
+          "MX": 2000
+        },
+        "traffic": 2200
+      }
+    }
+  },
+  "diia-government-digital-services-app": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "UA": 2200
+        },
+        "traffic": 2200
+      }
+    }
+  },
+  "ai-tool-general-curiosity": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "GB": 100,
+          "RU": 2000
+        },
+        "traffic": 2100
+      }
+    }
+  },
+  "bank-branch-service-check": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "AR": 2000
+        },
+        "traffic": 2000
+      }
+    }
+  },
+  "messaging-app-interest": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "BR": 2000
+        },
+        "traffic": 2000
+      }
+    }
+  },
+  "terra-brand-or-land-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "BR": 2000
+        },
+        "traffic": 2000
+      }
+    }
+  },
+  "debt-protection-account-info": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "DE": 2000
+        },
+        "traffic": 2000
+      }
+    }
+  },
+  "data-breach-incident-check": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "DE": 2000
+        },
+        "traffic": 2000
+      }
+    }
+  },
+  "electric-vehicle-general-interest": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "GB": 2000
+        },
+        "traffic": 2000
+      }
+    }
+  },
+  "coventry-building-society-prize-draw-check": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "GB": 2000
+        },
+        "traffic": 2000
+      }
+    }
+  },
+  "royal-mail-service-check": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "GB": 2000
+        },
+        "traffic": 2000
+      }
+    }
+  },
+  "time-is-unclear-query": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "ID": 2000
+        },
+        "traffic": 2000
+      }
+    }
+  },
+  "app-store-access-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "ID": 2000
+        },
+        "traffic": 2000
+      }
+    }
+  },
+  "generic-price-check-telugu": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "IN": 2000
+        },
+        "traffic": 2000
+      }
+    }
+  },
+  "smartphone-feature-deprecation-news": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "IN": 2000
+        },
+        "traffic": 2000
+      }
+    }
+  },
+  "business-concession-license-info": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "IT": 2000
+        },
+        "traffic": 2000
+      }
+    }
+  },
+  "agricultural-production-info": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "TR": 2000
+        },
+        "traffic": 2000
+      }
+    }
+  },
+  "metallurgy-industry-interest": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "UA": 2000
+        },
+        "traffic": 2000
+      }
+    }
+  },
+  "dividend-investing-interest": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "DE": 1000,
+          "GB": 200
+        },
+        "traffic": 1200
+      }
+    }
+  },
+  "plastics-industry-interest": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "BR": 1000
+        },
+        "traffic": 1000
+      }
+    }
+  },
+  "traffic-conditions-check": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "IN": 1000
+        },
+        "traffic": 1000
+      }
+    }
+  },
+  "next-unclear-query": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "IT": 1000
+        },
+        "traffic": 1000
+      }
+    }
+  },
+  "social-media-app-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "RU": 1000
+        },
+        "traffic": 1000
+      }
+    }
+  },
+  "cl-unclear-query": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "TR": 1000
+        },
+        "traffic": 1000
+      }
+    }
+  },
+  "canned-food-consumer-demand": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "TR": 1000
+        },
+        "traffic": 1000
+      }
+    }
+  },
+  "focus-unclear-query": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "US": 1000
+        },
+        "traffic": 1000
+      }
+    }
+  },
+  "salary-wage-info-check": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "KZ": 500,
+          "RU": 200
+        },
+        "traffic": 700
+      }
+    }
+  },
+  "airport-info-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "TR": 600
+        },
+        "traffic": 600
+      }
+    }
+  },
+  "hotel-booking-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "BR": 500
+        },
+        "traffic": 500
+      }
+    }
+  },
+  "ig-brand-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "BR": 500
+        },
+        "traffic": 500
+      }
+    }
+  },
+  "flight-booking-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "DE": 500
+        },
+        "traffic": 500
+      }
+    }
+  },
+  "home-improvement-store-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "DE": 500
+        },
+        "traffic": 500
+      }
+    }
+  },
+  "telecom-brand-service-check": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "IN": 400,
+          "MX": 100
+        },
+        "traffic": 500
+      }
+    }
+  },
+  "public-transport-info-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "IT": 500
+        },
+        "traffic": 500
+      }
+    }
+  },
+  "drought-climate-impact-check": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "MX": 500
+        },
+        "traffic": 500
+      }
+    }
+  },
+  "birds-unclear-query": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "RU": 500
+        },
+        "traffic": 500
+      }
+    }
+  },
+  "automotive-industry-interest": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "TR": 500
+        },
+        "traffic": 500
+      }
+    }
+  },
+  "inheritance-estate-planning-check": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "US": 500
+        },
+        "traffic": 500
+      }
+    }
+  },
+  "pc-hardware-component-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "IT": 200,
+          "UA": 200
+        },
+        "traffic": 400
+      }
+    }
+  },
+  "video-game-nostalgia-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "BR": 200
+        },
+        "traffic": 200
+      }
+    }
+  },
+  "real-estate-investment-fund-interest": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "DE": 200
+        },
+        "traffic": 200
+      }
+    }
+  },
+  "ferry-service-check": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "ES": 200
+        },
+        "traffic": 200
+      }
+    }
+  },
+  "iptv-streaming-service-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "FR": 200
+        },
+        "traffic": 200
+      }
+    }
+  },
+  "airline-service-check": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "GB": 200
+        },
+        "traffic": 200
+      }
+    }
+  },
+  "achieve-unclear-query": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "GB": 200
+        },
+        "traffic": 200
+      }
+    }
+  },
+  "tv-electronics-shopping-interest": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "GB": 200
+        },
+        "traffic": 200
+      }
+    }
+  },
+  "crop-insurance-check": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "IN": 200
+        },
+        "traffic": 200
+      }
+    }
+  },
+  "productivity-app-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "IT": 200
+        },
+        "traffic": 200
+      }
+    }
+  },
+  "leasing-service-check": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "RU": 200
+        },
+        "traffic": 200
+      }
+    }
+  },
+  "phishing-awareness-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "BR": 100
+        },
+        "traffic": 100
+      }
+    }
+  },
+  "building-cleaning-services-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "DE": 100
+        },
+        "traffic": 100
+      }
+    }
+  },
+  "vacation-travel-search": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "IT": 100
+        },
+        "traffic": 100
+      }
+    }
+  },
+  "rail-freight-wagon-info": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "RU": 100
+        },
+        "traffic": 100
+      }
+    }
+  },
+  "ice-cream-consumer-demand": {
+    "first_seen": "2026-09-09",
+    "status": "routine",
+    "weekly": {
+      "2026-09-09": {
+        "country_volume": {
+          "TR": 100
+        },
+        "traffic": 100
+      }
+    }
+  },
+  "anthropic-ai-company-interest": {
+    "first_seen": "2026-09-09",
+    "status": "signal",
+    "weekly": {
+      "2026-09-09": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": 100,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 5000
+      }
+    }
+  },
+  "european-defense-shipbuilding-stocks-interest": {
+    "first_seen": "2026-09-09",
+    "status": "signal",
+    "weekly": {
+      "2026-09-09": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 2400
+      }
+    }
+  },
+  "byd-ev-europe-expansion": {
+    "first_seen": "2026-09-09",
+    "status": "signal",
+    "weekly": {
+      "2026-09-09": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 10000
+      }
+    }
+  },
+  "humanoid-robot-interest": {
+    "first_seen": "2026-09-09",
+    "status": "signal",
+    "weekly": {
+      "2026-09-09": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 1000
+      }
+    }
+  },
+  "taco-bell-germany-market-entry": {
+    "first_seen": "2026-09-09",
+    "status": "signal",
+    "weekly": {
+      "2026-09-09": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 1000
+      }
+    }
+  },
+  "mistral-ai-company-interest": {
+    "first_seen": "2026-09-09",
+    "status": "signal",
+    "weekly": {
+      "2026-09-09": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 5800
+      }
+    }
+  },
+  "ev-home-charger-wallbox-interest": {
+    "first_seen": "2026-09-09",
+    "status": "signal",
+    "weekly": {
+      "2026-09-09": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 2000
+      }
+    }
+  },
+  "carmat-artificial-heart-device": {
+    "first_seen": "2026-09-09",
+    "status": "signal",
+    "weekly": {
+      "2026-09-09": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 200
+      }
+    }
+  },
+  "artificial-general-intelligence-interest": {
+    "first_seen": "2026-09-09",
+    "status": "signal",
+    "weekly": {
+      "2026-09-09": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 1000
+      }
+    }
+  },
+  "character-ai-chatbot-interest": {
+    "first_seen": "2026-09-09",
+    "status": "signal",
+    "weekly": {
+      "2026-09-09": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": 100,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 200
+      }
+    }
+  },
+  "dangote-petroleum-refinery-ipo": {
+    "first_seen": "2026-09-09",
+    "status": "signal",
+    "weekly": {
+      "2026-09-09": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": 100,
+          "Russia": null
+        },
+        "traffic": 2000
+      }
+    }
+  },
+  "uniondigital-bank-sss-microloan-app": {
+    "first_seen": "2026-09-09",
+    "status": "signal",
+    "weekly": {
+      "2026-09-09": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": 100,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 10000
+      }
+    }
+  },
+  "holtec-nuclear-power-ai-datacenter-interest": {
+    "first_seen": "2026-09-09",
+    "status": "signal",
+    "weekly": {
+      "2026-09-09": {
+        "interest_avg": 100,
+        "regions": {
+          "US": 100,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 500
+      }
+    }
+  },
+  "coreweave-ai-cloud-infrastructure-stock": {
+    "first_seen": "2026-09-09",
+    "status": "signal",
+    "weekly": {
+      "2026-09-09": {
+        "interest_avg": 100,
+        "regions": {
+          "US": 100,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 500
+      }
+    }
+  },
+  "playstation-5-graphics-upgrade": {
+    "first_seen": "2026-09-09",
+    "status": "signal",
+    "weekly": {
+      "2026-09-09": {
+        "interest_avg": 90,
+        "regions": {
+          "US": 100,
+          "EU": 80,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 18000
+      }
+    }
+  },
+  "zelda-ocarina-of-time-switch-2-remake": {
+    "first_seen": "2026-09-09",
+    "status": "signal",
+    "weekly": {
+      "2026-09-09": {
+        "interest_avg": 69,
+        "regions": {
+          "US": 100,
+          "EU": 84,
+          "LatAm": 22,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 411500
+      }
+    }
+  },
+  "iphone-fold-foldable-design-rumor": {
+    "first_seen": "2026-09-09",
+    "status": "signal",
+    "weekly": {
+      "2026-09-09": {
+        "interest_avg": 52,
+        "regions": {
+          "US": 100,
+          "EU": 5,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 2100
       }
     }
   }
