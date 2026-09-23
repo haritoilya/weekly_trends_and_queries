@@ -219,6 +219,14 @@
           "UA": 300
         },
         "traffic": 9800
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "RU": 1000,
+          "US": 500,
+          "TR": 200
+        },
+        "traffic": 1700
       }
     }
   },
@@ -277,6 +285,13 @@
           "US": 100
         },
         "traffic": 1300
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "IN": 7000,
+          "DE": 300
+        },
+        "traffic": 7300
       }
     }
   },
@@ -295,6 +310,12 @@
           "ES": 1000
         },
         "traffic": 1000
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "FR": 200
+        },
+        "traffic": 200
       }
     }
   },
@@ -369,6 +390,18 @@
           "US": 100
         },
         "traffic": 700
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "ES": 5000,
+          "FR": 2000,
+          "IT": 5000,
+          "RU": 2000,
+          "DE": 2100,
+          "US": 1500,
+          "TR": 100
+        },
+        "traffic": 17700
       }
     }
   },
@@ -432,6 +465,12 @@
           "US": 2000
         },
         "traffic": 21700
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "NG": 500
+        },
+        "traffic": 500
       }
     }
   },
@@ -473,6 +512,13 @@
           "PH": 1000
         },
         "traffic": 1500
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "FR": 5000,
+          "DE": 500
+        },
+        "traffic": 5500
       }
     }
   },
@@ -528,6 +574,14 @@
           "TR": 7000
         },
         "traffic": 30100
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "DE": 10000,
+          "BR": 5000,
+          "UA": 2000
+        },
+        "traffic": 17000
       }
     }
   },
@@ -619,6 +673,16 @@
           "US": 15000
         },
         "traffic": 66800
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "US": 19300,
+          "GB": 1300,
+          "IN": 9400,
+          "ID": 2000,
+          "DE": 1300
+        },
+        "traffic": 33300
       }
     }
   },
@@ -677,6 +741,15 @@
           "RU": 12000
         },
         "traffic": 12000
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "RU": 5000,
+          "FR": 2000,
+          "IT": 500,
+          "DE": 500
+        },
+        "traffic": 8000
       }
     }
   },
@@ -739,6 +812,14 @@
           "UA": 5000
         },
         "traffic": 7200
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "AR": 20000,
+          "RU": 10000,
+          "GB": 1000
+        },
+        "traffic": 31000
       }
     }
   },
@@ -882,6 +963,16 @@
           "TR": 500
         },
         "traffic": 25000
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "IN": 25000,
+          "GB": 400,
+          "DE": 4000,
+          "RU": 1000,
+          "IT": 1000
+        },
+        "traffic": 31400
       }
     }
   },
@@ -969,6 +1060,13 @@
           "TR": 1000
         },
         "traffic": 22100
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "ES": 200,
+          "DE": 200
+        },
+        "traffic": 400
       }
     }
   },
@@ -1263,6 +1361,12 @@
           "IN": 22400
         },
         "traffic": 22400
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "IN": 20000
+        },
+        "traffic": 20000
       }
     }
   },
@@ -1342,6 +1446,15 @@
           "US": 3200
         },
         "traffic": 6700
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "US": 3900,
+          "GB": 400,
+          "BR": 100,
+          "IN": 200
+        },
+        "traffic": 4600
       }
     }
   },
@@ -1364,6 +1477,14 @@
           "US": 10500
         },
         "traffic": 15500
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "RU": 12500,
+          "KZ": 10000,
+          "UA": 2000
+        },
+        "traffic": 24500
       }
     }
   },
@@ -1391,6 +1512,12 @@
           "KZ": 500
         },
         "traffic": 500
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "US": 1000
+        },
+        "traffic": 1000
       }
     }
   },
@@ -1435,6 +1562,13 @@
           "US": 2000
         },
         "traffic": 7000
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "RU": 500,
+          "BR": 500
+        },
+        "traffic": 1000
       }
     }
   },
@@ -1463,6 +1597,13 @@
           "UA": 600
         },
         "traffic": 3600
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "RU": 1500,
+          "UA": 2100
+        },
+        "traffic": 3600
       }
     }
   },
@@ -1482,6 +1623,19 @@
           "Russia": 100
         },
         "traffic": 5500
+      },
+      "2026-09-23": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": 100
+        },
+        "traffic": 10000
       }
     }
   },
@@ -1554,6 +1708,16 @@
           "RU": 300
         },
         "traffic": 15600
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "MX": 100000,
+          "US": 10500,
+          "RU": 12000,
+          "DE": 2000,
+          "IN": 100
+        },
+        "traffic": 124600
       }
     }
   },
@@ -1577,6 +1741,15 @@
           "IN": 200
         },
         "traffic": 200
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "FR": 5000,
+          "IT": 2000,
+          "DE": 1000,
+          "RU": 200
+        },
+        "traffic": 8200
       }
     }
   },
@@ -1604,6 +1777,14 @@
           "TR": 1200
         },
         "traffic": 7100
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "IT": 2000,
+          "TR": 2000,
+          "US": 100
+        },
+        "traffic": 4100
       }
     }
   },
@@ -1666,6 +1847,13 @@
           "DE": 5200
         },
         "traffic": 5200
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "DE": 500,
+          "UA": 200
+        },
+        "traffic": 700
       }
     }
   },
@@ -1678,6 +1866,12 @@
           "ES": 5000
         },
         "traffic": 5000
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "RU": 10000
+        },
+        "traffic": 10000
       }
     }
   },
@@ -1714,6 +1908,12 @@
           "RU": 5000
         },
         "traffic": 5000
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "IN": 2000
+        },
+        "traffic": 2000
       }
     }
   },
@@ -1734,6 +1934,13 @@
           "IT": 200
         },
         "traffic": 400
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "IN": 1000,
+          "UA": 500
+        },
+        "traffic": 1500
       }
     }
   },
@@ -1766,6 +1973,16 @@
           "PH": 500
         },
         "traffic": 500
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "KZ": 200,
+          "RU": 10000,
+          "TR": 3000,
+          "UA": 4000,
+          "US": 100
+        },
+        "traffic": 17300
       }
     }
   },
@@ -1798,6 +2015,15 @@
           "US": 10000
         },
         "traffic": 10100
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "RU": 1000,
+          "NG": 2000,
+          "MX": 200,
+          "BR": 500
+        },
+        "traffic": 3700
       }
     }
   },
@@ -1818,6 +2044,17 @@
           "MX": 100
         },
         "traffic": 5100
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "IT": 5000,
+          "IN": 2100,
+          "RU": 3000,
+          "TR": 2000,
+          "DE": 1000,
+          "UA": 700
+        },
+        "traffic": 13800
       }
     }
   },
@@ -1830,6 +2067,12 @@
           "BR": 2000
         },
         "traffic": 2000
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "RU": 1000
+        },
+        "traffic": 1000
       }
     }
   },
@@ -1876,6 +2119,12 @@
       "2026-09-09": {
         "country_volume": {
           "GB": 2000
+        },
+        "traffic": 2000
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "TR": 2000
         },
         "traffic": 2000
       }
@@ -1926,6 +2175,12 @@
           "ID": 2000
         },
         "traffic": 2000
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "ID": 200
+        },
+        "traffic": 200
       }
     }
   },
@@ -2000,6 +2255,12 @@
           "UA": 2000
         },
         "traffic": 2000
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "NG": 5100
+        },
+        "traffic": 5100
       }
     }
   },
@@ -2020,6 +2281,13 @@
           "FR": 500
         },
         "traffic": 5500
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "TR": 500,
+          "KZ": 200
+        },
+        "traffic": 700
       }
     }
   },
@@ -2044,6 +2312,12 @@
           "IN": 1000
         },
         "traffic": 1000
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "DE": 2000
+        },
+        "traffic": 2000
       }
     }
   },
@@ -2068,6 +2342,14 @@
           "RU": 1000
         },
         "traffic": 1000
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "ID": 5000,
+          "GB": 500,
+          "US": 2000
+        },
+        "traffic": 7500
       }
     }
   },
@@ -2117,6 +2399,12 @@
           "RU": 200
         },
         "traffic": 700
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "DE": 1000
+        },
+        "traffic": 1000
       }
     }
   },
@@ -2171,6 +2459,12 @@
           "DE": 500
         },
         "traffic": 500
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "RU": 500
+        },
+        "traffic": 500
       }
     }
   },
@@ -2202,6 +2496,14 @@
           "NG": 10000
         },
         "traffic": 10000
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "RU": 2500,
+          "MX": 500,
+          "IN": 200
+        },
+        "traffic": 3200
       }
     }
   },
@@ -2214,6 +2516,13 @@
           "IT": 500
         },
         "traffic": 500
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "FR": 500,
+          "GB": 100
+        },
+        "traffic": 600
       }
     }
   },
@@ -2250,6 +2559,14 @@
           "TR": 500
         },
         "traffic": 500
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "DE": 2000,
+          "IT": 500,
+          "GB": 500
+        },
+        "traffic": 3000
       }
     }
   },
@@ -2287,6 +2604,13 @@
           "BR": 200
         },
         "traffic": 200
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "US": 2000,
+          "GB": 200
+        },
+        "traffic": 2200
       }
     }
   },
@@ -2344,6 +2668,12 @@
           "TR": 1000
         },
         "traffic": 6300
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "FR": 3000
+        },
+        "traffic": 3000
       }
     }
   },
@@ -2416,6 +2746,12 @@
           "BR": 100
         },
         "traffic": 100
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "IT": 10000
+        },
+        "traffic": 10000
       }
     }
   },
@@ -2428,6 +2764,14 @@
           "DE": 100
         },
         "traffic": 100
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "IT": 2000,
+          "FR": 2000,
+          "RU": 1000
+        },
+        "traffic": 5000
       }
     }
   },
@@ -2440,6 +2784,13 @@
           "IT": 100
         },
         "traffic": 100
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "RU": 2000,
+          "MX": 1000
+        },
+        "traffic": 3000
       }
     }
   },
@@ -2469,7 +2820,7 @@
   },
   "anthropic-ai-company-interest": {
     "first_seen": "2026-09-09",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-09-09": {
         "interest_avg": 100,
@@ -2502,6 +2853,19 @@
           "Russia": null
         },
         "traffic": 2400
+      },
+      "2026-09-23": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 2000
       }
     }
   },
@@ -2539,7 +2903,7 @@
   },
   "humanoid-robot-interest": {
     "first_seen": "2026-09-09",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-09-09": {
         "interest_avg": 100,
@@ -2558,7 +2922,7 @@
   },
   "taco-bell-germany-market-entry": {
     "first_seen": "2026-09-09",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-09-09": {
         "interest_avg": 100,
@@ -2577,7 +2941,7 @@
   },
   "mistral-ai-company-interest": {
     "first_seen": "2026-09-09",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-09-09": {
         "interest_avg": 100,
@@ -2596,7 +2960,7 @@
   },
   "ev-home-charger-wallbox-interest": {
     "first_seen": "2026-09-09",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-09-09": {
         "interest_avg": 100,
@@ -2615,7 +2979,7 @@
   },
   "carmat-artificial-heart-device": {
     "first_seen": "2026-09-09",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-09-09": {
         "interest_avg": 100,
@@ -2634,7 +2998,7 @@
   },
   "artificial-general-intelligence-interest": {
     "first_seen": "2026-09-09",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-09-09": {
         "interest_avg": 100,
@@ -2653,7 +3017,7 @@
   },
   "character-ai-chatbot-interest": {
     "first_seen": "2026-09-09",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-09-09": {
         "interest_avg": 100,
@@ -2699,12 +3063,25 @@
           "Russia": null
         },
         "traffic": 2000
+      },
+      "2026-09-23": {
+        "interest_avg": 51,
+        "regions": {
+          "US": null,
+          "EU": 2,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": 100,
+          "Russia": null
+        },
+        "traffic": 4000
       }
     }
   },
   "uniondigital-bank-sss-microloan-app": {
     "first_seen": "2026-09-09",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-09-09": {
         "interest_avg": 100,
@@ -2723,7 +3100,7 @@
   },
   "holtec-nuclear-power-ai-datacenter-interest": {
     "first_seen": "2026-09-09",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-09-09": {
         "interest_avg": 100,
@@ -2742,7 +3119,7 @@
   },
   "coreweave-ai-cloud-infrastructure-stock": {
     "first_seen": "2026-09-09",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-09-09": {
         "interest_avg": 100,
@@ -2761,7 +3138,7 @@
   },
   "playstation-5-graphics-upgrade": {
     "first_seen": "2026-09-09",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-09-09": {
         "interest_avg": 90,
@@ -2780,7 +3157,7 @@
   },
   "zelda-ocarina-of-time-switch-2-remake": {
     "first_seen": "2026-09-09",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-09-09": {
         "interest_avg": 69,
@@ -2799,7 +3176,7 @@
   },
   "iphone-fold-foldable-design-rumor": {
     "first_seen": "2026-09-09",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-09-09": {
         "interest_avg": 52,
@@ -2825,6 +3202,13 @@
           "DE": 6000
         },
         "traffic": 6000
+      },
+      "2026-09-23": {
+        "country_volume": {
+          "IT": 10000,
+          "FR": 500
+        },
+        "traffic": 10500
       }
     }
   },
@@ -2863,6 +3247,138 @@
           "Russia": null
         },
         "traffic": 1000
+      }
+    }
+  },
+  "online-classifieds-marketplace-search": {
+    "first_seen": "2026-09-23",
+    "status": "routine",
+    "weekly": {
+      "2026-09-23": {
+        "country_volume": {
+          "DE": 2000
+        },
+        "traffic": 2000
+      }
+    }
+  },
+  "jev-unclear-query": {
+    "first_seen": "2026-09-23",
+    "status": "routine",
+    "weekly": {
+      "2026-09-23": {
+        "country_volume": {
+          "GB": 500,
+          "DE": 200,
+          "US": 1000,
+          "IN": 100
+        },
+        "traffic": 1800
+      }
+    }
+  },
+  "space-launch-event-interest": {
+    "first_seen": "2026-09-23",
+    "status": "routine",
+    "weekly": {
+      "2026-09-23": {
+        "country_volume": {
+          "RU": 1000
+        },
+        "traffic": 1000
+      }
+    }
+  },
+  "video-game-genre-interest": {
+    "first_seen": "2026-09-23",
+    "status": "routine",
+    "weekly": {
+      "2026-09-23": {
+        "country_volume": {
+          "DE": 1000
+        },
+        "traffic": 1000
+      }
+    }
+  },
+  "act-unclear-query": {
+    "first_seen": "2026-09-23",
+    "status": "routine",
+    "weekly": {
+      "2026-09-23": {
+        "country_volume": {
+          "BR": 500
+        },
+        "traffic": 500
+      }
+    }
+  },
+  "pharma-health-product-interest": {
+    "first_seen": "2026-09-23",
+    "status": "routine",
+    "weekly": {
+      "2026-09-23": {
+        "country_volume": {
+          "FR": 100
+        },
+        "traffic": 100
+      }
+    }
+  },
+  "google-gemini-ai-interest": {
+    "first_seen": "2026-09-23",
+    "status": "signal",
+    "weekly": {
+      "2026-09-23": {
+        "interest_avg": 29,
+        "regions": {
+          "US": 25,
+          "EU": 13,
+          "LatAm": 10,
+          "CIS": 2,
+          "Asia": 100,
+          "AfricaME": 47,
+          "Russia": 4
+        },
+        "traffic": 32500
+      }
+    }
+  },
+  "beats-360-headphones-launch": {
+    "first_seen": "2026-09-23",
+    "status": "signal",
+    "weekly": {
+      "2026-09-23": {
+        "interest_avg": 37,
+        "regions": {
+          "US": 100,
+          "EU": 28,
+          "LatAm": 13,
+          "CIS": null,
+          "Asia": 7,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 11000
+      }
+    }
+  },
+  "nelfund-nigeria-student-loan-program": {
+    "first_seen": "2026-09-23",
+    "status": "signal",
+    "weekly": {
+      "2026-09-23": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": 100,
+          "Russia": null
+        },
+        "traffic": 5000
       }
     }
   }
