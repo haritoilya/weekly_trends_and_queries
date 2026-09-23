@@ -1,7 +1,7 @@
 {
   "kalshi-prediction-markets": {
     "first_seen": "2026-08-09",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-08-09": {
         "interest_avg": 11,
@@ -59,7 +59,7 @@
   },
   "physical-media-resurgence": {
     "first_seen": "2026-08-09",
-    "status": "confirmed_trend",
+    "status": "decayed",
     "weekly": {
       "2026-08-09": {
         "interest_avg": 26,
@@ -207,6 +207,18 @@
           "US": 1000
         },
         "traffic": 7700
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "AR": 2000,
+          "DE": 1000,
+          "KZ": 2000,
+          "MX": 2000,
+          "RU": 2000,
+          "TR": 500,
+          "UA": 300
+        },
+        "traffic": 9800
       }
     }
   },
@@ -257,6 +269,14 @@
           "TR": 200
         },
         "traffic": 5500
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "MX": 200,
+          "TR": 1000,
+          "US": 100
+        },
+        "traffic": 1300
       }
     }
   },
@@ -269,6 +289,12 @@
           "ES": 500
         },
         "traffic": 500
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "ES": 1000
+        },
+        "traffic": 1000
       }
     }
   },
@@ -335,6 +361,14 @@
           "UA": 1000
         },
         "traffic": 69400
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "PH": 500,
+          "TR": 100,
+          "US": 100
+        },
+        "traffic": 700
       }
     }
   },
@@ -387,6 +421,17 @@
           "UA": 500
         },
         "traffic": 10600
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "DE": 1200,
+          "FR": 2000,
+          "IT": 1000,
+          "RU": 4000,
+          "TR": 11500,
+          "US": 2000
+        },
+        "traffic": 21700
       }
     }
   },
@@ -421,6 +466,13 @@
           "US": 200
         },
         "traffic": 1200
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "ES": 500,
+          "PH": 1000
+        },
+        "traffic": 1500
       }
     }
   },
@@ -467,6 +519,15 @@
           "TR": 21000
         },
         "traffic": 21600
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "BR": 2000,
+          "GB": 20100,
+          "RU": 1000,
+          "TR": 7000
+        },
+        "traffic": 30100
       }
     }
   },
@@ -543,6 +604,21 @@
           "US": 33200
         },
         "traffic": 74700
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "AR": 400,
+          "BR": 1600,
+          "DE": 2500,
+          "ES": 2200,
+          "ID": 600,
+          "IN": 41500,
+          "IT": 1100,
+          "MX": 1500,
+          "RU": 400,
+          "US": 15000
+        },
+        "traffic": 66800
       }
     }
   },
@@ -595,6 +671,12 @@
           "TR": 500
         },
         "traffic": 3000
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "RU": 12000
+        },
+        "traffic": 12000
       }
     }
   },
@@ -649,6 +731,14 @@
           "US": 200000
         },
         "traffic": 207500
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "AR": 2000,
+          "BR": 200,
+          "UA": 5000
+        },
+        "traffic": 7200
       }
     }
   },
@@ -678,7 +768,7 @@
   },
   "trump-accounts-savings-program": {
     "first_seen": "2026-08-12",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-08-12": {
         "interest_avg": 10,
@@ -781,6 +871,17 @@
           "US": 20000
         },
         "traffic": 270900
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "BR": 5300,
+          "DE": 700,
+          "IN": 17800,
+          "NG": 500,
+          "PH": 200,
+          "TR": 500
+        },
+        "traffic": 25000
       }
     }
   },
@@ -819,6 +920,16 @@
           "IN": 200
         },
         "traffic": 1300
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "GB": 700,
+          "IT": 1000,
+          "MX": 2000,
+          "RU": 200,
+          "US": 2000
+        },
+        "traffic": 5900
       }
     }
   },
@@ -842,6 +953,22 @@
           "ES": 500
         },
         "traffic": 500
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "AR": 500,
+          "BR": 5000,
+          "DE": 10000,
+          "ES": 1000,
+          "FR": 3500,
+          "GB": 200,
+          "MX": 500,
+          "NG": 100,
+          "PH": 100,
+          "RU": 200,
+          "TR": 1000
+        },
+        "traffic": 22100
       }
     }
   },
@@ -864,12 +991,24 @@
           "DE": 100
         },
         "traffic": 100
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "FR": 200,
+          "GB": 1000,
+          "ID": 5000,
+          "IT": 2400,
+          "RU": 1500,
+          "TR": 10000,
+          "UA": 200
+        },
+        "traffic": 20300
       }
     }
   },
   "digital-ruble-cbdc": {
     "first_seen": "2026-08-19",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-08-19": {
         "interest_avg": 26,
@@ -901,7 +1040,7 @@
   },
   "honor-robot-transforming-phone": {
     "first_seen": "2026-08-19",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-08-19": {
         "interest_avg": 47,
@@ -933,7 +1072,7 @@
   },
   "animated-motion-wallpaper-feature": {
     "first_seen": "2026-08-19",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-08-19": {
         "interest_avg": 32,
@@ -965,7 +1104,7 @@
   },
   "playstation-6-anticipation": {
     "first_seen": "2026-08-19",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-08-19": {
         "interest_avg": 58,
@@ -997,7 +1136,7 @@
   },
   "nvidia-ai-chip-stock-surge": {
     "first_seen": "2026-08-26",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-08-26": {
         "interest_avg": 56,
@@ -1029,7 +1168,7 @@
   },
   "apple-pay-contactless-expansion": {
     "first_seen": "2026-08-26",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-08-26": {
         "interest_avg": 41,
@@ -1048,7 +1187,7 @@
   },
   "king-charles-10p-coin-circulation": {
     "first_seen": "2026-08-26",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-08-26": {
         "interest_avg": 100,
@@ -1067,7 +1206,7 @@
   },
   "shein-fast-fashion-latam-surge": {
     "first_seen": "2026-08-26",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-08-26": {
         "interest_avg": 52,
@@ -1118,6 +1257,12 @@
           "IN": 5000
         },
         "traffic": 5000
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "IN": 22400
+        },
+        "traffic": 22400
       }
     }
   },
@@ -1136,6 +1281,15 @@
           "TR": 100
         },
         "traffic": 100
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "FR": 100,
+          "MX": 1200,
+          "TR": 100,
+          "UA": 200
+        },
+        "traffic": 1600
       }
     }
   },
@@ -1176,6 +1330,18 @@
           "TR": 500
         },
         "traffic": 3100
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "BR": 2700,
+          "DE": 100,
+          "FR": 100,
+          "GB": 100,
+          "IN": 300,
+          "TR": 200,
+          "US": 3200
+        },
+        "traffic": 6700
       }
     }
   },
@@ -1219,6 +1385,12 @@
           "GB": 2000
         },
         "traffic": 2000
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "KZ": 500
+        },
+        "traffic": 500
       }
     }
   },
@@ -1255,6 +1427,14 @@
           "PH": 2000
         },
         "traffic": 8100
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "ES": 1000,
+          "IT": 4000,
+          "US": 2000
+        },
+        "traffic": 7000
       }
     }
   },
@@ -1276,12 +1456,19 @@
           "RU": 2000
         },
         "traffic": 7300
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "IT": 3000,
+          "UA": 600
+        },
+        "traffic": 3600
       }
     }
   },
   "starlink-satellite-internet-service": {
     "first_seen": "2026-09-02",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-09-02": {
         "interest_avg": 55,
@@ -1300,7 +1487,7 @@
   },
   "meutudo-brazil-lending-app": {
     "first_seen": "2026-09-02",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-09-02": {
         "interest_avg": 100,
@@ -1328,6 +1515,14 @@
           "TR": 5000
         },
         "traffic": 25000
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "BR": 2000,
+          "IT": 1000,
+          "KZ": 100
+        },
+        "traffic": 3100
       }
     }
   },
@@ -1376,6 +1571,12 @@
           "US": 1000
         },
         "traffic": 14900
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "IN": 200
+        },
+        "traffic": 200
       }
     }
   },
@@ -1392,6 +1593,17 @@
           "UA": 300
         },
         "traffic": 13300
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "BR": 2000,
+          "DE": 2200,
+          "ES": 500,
+          "ID": 1000,
+          "IT": 200,
+          "TR": 1200
+        },
+        "traffic": 7100
       }
     }
   },
@@ -1515,6 +1727,13 @@
           "IN": 2000
         },
         "traffic": 4000
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "ES": 200,
+          "IT": 200
+        },
+        "traffic": 400
       }
     }
   },
@@ -1541,6 +1760,12 @@
           "MX": 2000
         },
         "traffic": 2200
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "PH": 500
+        },
+        "traffic": 500
       }
     }
   },
@@ -1566,6 +1791,13 @@
           "RU": 2000
         },
         "traffic": 2100
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "TR": 100,
+          "US": 10000
+        },
+        "traffic": 10100
       }
     }
   },
@@ -1578,6 +1810,14 @@
           "AR": 2000
         },
         "traffic": 2000
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "DE": 1000,
+          "IT": 4000,
+          "MX": 100
+        },
+        "traffic": 5100
       }
     }
   },
@@ -1722,6 +1962,12 @@
           "IT": 2000
         },
         "traffic": 2000
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "IT": 1000
+        },
+        "traffic": 1000
       }
     }
   },
@@ -1734,6 +1980,14 @@
           "TR": 2000
         },
         "traffic": 2000
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "DE": 2000,
+          "ID": 7000,
+          "TR": 1000
+        },
+        "traffic": 10000
       }
     }
   },
@@ -1759,6 +2013,13 @@
           "GB": 200
         },
         "traffic": 1200
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "ES": 5000,
+          "FR": 500
+        },
+        "traffic": 5500
       }
     }
   },
@@ -1868,6 +2129,12 @@
           "TR": 600
         },
         "traffic": 600
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "US": 2000
+        },
+        "traffic": 2000
       }
     }
   },
@@ -1929,6 +2196,12 @@
           "MX": 100
         },
         "traffic": 500
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "NG": 10000
+        },
+        "traffic": 10000
       }
     }
   },
@@ -2062,6 +2335,15 @@
           "GB": 200
         },
         "traffic": 200
+      },
+      "2026-09-16": {
+        "country_volume": {
+          "IT": 100,
+          "NG": 200,
+          "RU": 5000,
+          "TR": 1000
+        },
+        "traffic": 6300
       }
     }
   },
@@ -2239,6 +2521,19 @@
           "Russia": null
         },
         "traffic": 10000
+      },
+      "2026-09-16": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 100
       }
     }
   },
@@ -2391,6 +2686,19 @@
           "Russia": null
         },
         "traffic": 2000
+      },
+      "2026-09-16": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": 100,
+          "Russia": null
+        },
+        "traffic": 2000
       }
     }
   },
@@ -2505,6 +2813,56 @@
           "Russia": null
         },
         "traffic": 2100
+      }
+    }
+  },
+  "insurance-service-search": {
+    "first_seen": "2026-09-16",
+    "status": "routine",
+    "weekly": {
+      "2026-09-16": {
+        "country_volume": {
+          "DE": 6000
+        },
+        "traffic": 6000
+      }
+    }
+  },
+  "clarity-act-crypto-market-structure-bill": {
+    "first_seen": "2026-09-16",
+    "status": "signal",
+    "weekly": {
+      "2026-09-16": {
+        "interest_avg": 20,
+        "regions": {
+          "US": 62,
+          "EU": 26,
+          "LatAm": 8,
+          "CIS": 17,
+          "Asia": 9,
+          "AfricaME": 13,
+          "Russia": 2
+        },
+        "traffic": 38600
+      }
+    }
+  },
+  "exein-iot-cybersecurity-platform": {
+    "first_seen": "2026-09-16",
+    "status": "signal",
+    "weekly": {
+      "2026-09-16": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 1000
       }
     }
   }
