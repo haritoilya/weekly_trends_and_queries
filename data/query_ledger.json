@@ -227,6 +227,19 @@
           "TR": 200
         },
         "traffic": 1700
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": 100,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 2000
       }
     }
   },
@@ -292,6 +305,19 @@
           "DE": 300
         },
         "traffic": 7300
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": 100,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 13000
       }
     }
   },
@@ -402,6 +428,19 @@
           "TR": 100
         },
         "traffic": 17700
+      },
+      "2026-09-30": {
+        "interest_avg": 35,
+        "regions": {
+          "US": null,
+          "EU": 5,
+          "LatAm": null,
+          "CIS": 0,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": 100
+        },
+        "traffic": 21100
       }
     }
   },
@@ -471,6 +510,19 @@
           "NG": 500
         },
         "traffic": 500
+      },
+      "2026-09-30": {
+        "interest_avg": 51,
+        "regions": {
+          "US": null,
+          "EU": 2,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": 100
+        },
+        "traffic": 10200
       }
     }
   },
@@ -582,6 +634,19 @@
           "UA": 2000
         },
         "traffic": 17000
+      },
+      "2026-09-30": {
+        "interest_avg": 75,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": 50,
+          "Russia": null
+        },
+        "traffic": 30000
       }
     }
   },
@@ -683,6 +748,19 @@
           "DE": 1300
         },
         "traffic": 33300
+      },
+      "2026-09-30": {
+        "interest_avg": 58,
+        "regions": {
+          "US": 23,
+          "EU": 100,
+          "LatAm": 67,
+          "CIS": null,
+          "Asia": 67,
+          "AfricaME": 33,
+          "Russia": null
+        },
+        "traffic": 8700
       }
     }
   },
@@ -750,6 +828,19 @@
           "DE": 500
         },
         "traffic": 8000
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 10000
       }
     }
   },
@@ -820,6 +911,19 @@
           "GB": 1000
         },
         "traffic": 31000
+      },
+      "2026-09-30": {
+        "interest_avg": 38,
+        "regions": {
+          "US": 4,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": 100,
+          "AfricaME": null,
+          "Russia": 9
+        },
+        "traffic": 26000
       }
     }
   },
@@ -889,6 +993,19 @@
           "Russia": null
         },
         "traffic": null
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": 100,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 2000
       }
     }
   },
@@ -973,6 +1090,19 @@
           "IT": 1000
         },
         "traffic": 31400
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": 100,
+          "Russia": null
+        },
+        "traffic": 100
       }
     }
   },
@@ -1021,6 +1151,19 @@
           "US": 2000
         },
         "traffic": 5900
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": 100,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 200
       }
     }
   },
@@ -1280,6 +1423,19 @@
           "Russia": 5
         },
         "traffic": 10500
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": 100,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 2000
       }
     }
   },
@@ -1367,6 +1523,19 @@
           "IN": 20000
         },
         "traffic": 20000
+      },
+      "2026-09-30": {
+        "interest_avg": 57,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": 100,
+          "AfricaME": 14,
+          "Russia": null
+        },
+        "traffic": 16100
       }
     }
   },
@@ -1407,6 +1576,19 @@
           "TR": 5000
         },
         "traffic": 15000
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": 100,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 2000
       }
     }
   },
@@ -1455,6 +1637,19 @@
           "IN": 200
         },
         "traffic": 4600
+      },
+      "2026-09-30": {
+        "interest_avg": 52,
+        "regions": {
+          "US": null,
+          "EU": 5,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": 100
+        },
+        "traffic": 2100
       }
     }
   },
@@ -1485,6 +1680,19 @@
           "UA": 2000
         },
         "traffic": 24500
+      },
+      "2026-09-30": {
+        "interest_avg": 67,
+        "regions": {
+          "US": null,
+          "EU": 91,
+          "LatAm": null,
+          "CIS": 9,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": 100
+        },
+        "traffic": 22000
       }
     }
   },
@@ -1518,6 +1726,19 @@
           "US": 1000
         },
         "traffic": 1000
+      },
+      "2026-09-30": {
+        "interest_avg": 58,
+        "regions": {
+          "US": 20,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": 10,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": 100
+        },
+        "traffic": 23000
       }
     }
   },
@@ -1569,6 +1790,19 @@
           "BR": 500
         },
         "traffic": 1000
+      },
+      "2026-09-30": {
+        "interest_avg": 34,
+        "regions": {
+          "US": null,
+          "EU": 2,
+          "LatAm": 100,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": 0
+        },
+        "traffic": 113000
       }
     }
   },
@@ -1604,6 +1838,19 @@
           "UA": 2100
         },
         "traffic": 3600
+      },
+      "2026-09-30": {
+        "interest_avg": 47,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": 20,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": 20
+        },
+        "traffic": 71200
       }
     }
   },
@@ -1677,6 +1924,19 @@
           "KZ": 100
         },
         "traffic": 3100
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": 100,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 5000
       }
     }
   },
@@ -1718,6 +1978,19 @@
           "IN": 100
         },
         "traffic": 124600
+      },
+      "2026-09-30": {
+        "interest_avg": 55,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": 44,
+          "Russia": 22
+        },
+        "traffic": 15100
       }
     }
   },
@@ -1750,6 +2023,19 @@
           "RU": 200
         },
         "traffic": 8200
+      },
+      "2026-09-30": {
+        "interest_avg": 60,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": 21,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 2900
       }
     }
   },
@@ -1785,6 +2071,19 @@
           "US": 100
         },
         "traffic": 4100
+      },
+      "2026-09-30": {
+        "interest_avg": 75,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": 100,
+          "Asia": 50,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 3000
       }
     }
   },
@@ -1872,6 +2171,19 @@
           "RU": 10000
         },
         "traffic": 10000
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": 100
+        },
+        "traffic": 10000
       }
     }
   },
@@ -1884,6 +2196,19 @@
           "FR": 5000
         },
         "traffic": 5000
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 50000
       }
     }
   },
@@ -2024,6 +2349,19 @@
           "BR": 500
         },
         "traffic": 3700
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": 100
+        },
+        "traffic": 500
       }
     }
   },
@@ -2055,6 +2393,19 @@
           "UA": 700
         },
         "traffic": 13800
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": 100,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 10000
       }
     }
   },
@@ -2109,6 +2460,19 @@
           "DE": 2000
         },
         "traffic": 2000
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 5000
       }
     }
   },
@@ -2193,6 +2557,19 @@
           "IN": 2000
         },
         "traffic": 2000
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": 100,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 500
       }
     }
   },
@@ -2243,6 +2620,19 @@
           "TR": 1000
         },
         "traffic": 10000
+      },
+      "2026-09-30": {
+        "interest_avg": 52,
+        "regions": {
+          "US": null,
+          "EU": 55,
+          "LatAm": null,
+          "CIS": 100,
+          "Asia": 5,
+          "AfricaME": null,
+          "Russia": 50
+        },
+        "traffic": 42000
       }
     }
   },
@@ -2261,6 +2651,19 @@
           "NG": 5100
         },
         "traffic": 5100
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": 100,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 1000
       }
     }
   },
@@ -2535,6 +2938,19 @@
           "MX": 500
         },
         "traffic": 500
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": 100,
+          "Russia": null
+        },
+        "traffic": 2000
       }
     }
   },
@@ -2567,6 +2983,19 @@
           "GB": 500
         },
         "traffic": 3000
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 7000
       }
     }
   },
@@ -2579,6 +3008,19 @@
           "US": 500
         },
         "traffic": 500
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 5000
       }
     }
   },
@@ -2674,6 +3116,19 @@
           "FR": 3000
         },
         "traffic": 3000
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": 100,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 102000
       }
     }
   },
@@ -2898,6 +3353,19 @@
           "Russia": null
         },
         "traffic": 100
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 12000
       }
     }
   },
@@ -3076,6 +3544,19 @@
           "Russia": null
         },
         "traffic": 4000
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": 100,
+          "Russia": null
+        },
+        "traffic": 2200
       }
     }
   },
@@ -3209,12 +3690,25 @@
           "FR": 500
         },
         "traffic": 10500
+      },
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": 100,
+          "Russia": null
+        },
+        "traffic": 10000
       }
     }
   },
   "clarity-act-crypto-market-structure-bill": {
     "first_seen": "2026-09-16",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-09-16": {
         "interest_avg": 20,
@@ -3233,7 +3727,7 @@
   },
   "exein-iot-cybersecurity-platform": {
     "first_seen": "2026-09-16",
-    "status": "signal",
+    "status": "decayed",
     "weekly": {
       "2026-09-16": {
         "interest_avg": 100,
@@ -3379,6 +3873,177 @@
           "Russia": null
         },
         "traffic": 5000
+      }
+    }
+  },
+  "nothing-headphone-1-launch": {
+    "first_seen": "2026-09-30",
+    "status": "signal",
+    "weekly": {
+      "2026-09-30": {
+        "interest_avg": 17,
+        "regions": {
+          "US": 15,
+          "EU": 18,
+          "LatAm": 15,
+          "CIS": 30,
+          "Asia": 8,
+          "AfricaME": 7,
+          "Russia": 23
+        },
+        "traffic": 50000
+      }
+    }
+  },
+  "muse-ai-product-interest": {
+    "first_seen": "2026-09-30",
+    "status": "signal",
+    "weekly": {
+      "2026-09-30": {
+        "interest_avg": 9,
+        "regions": {
+          "US": 20,
+          "EU": 7,
+          "LatAm": 4,
+          "CIS": 5,
+          "Asia": 11,
+          "AfricaME": 9,
+          "Russia": null
+        },
+        "traffic": 1000
+      }
+    }
+  },
+  "windows-11-26h2-update": {
+    "first_seen": "2026-09-30",
+    "status": "signal",
+    "weekly": {
+      "2026-09-30": {
+        "interest_avg": 27,
+        "regions": {
+          "US": 16,
+          "EU": 33,
+          "LatAm": 31,
+          "CIS": 19,
+          "Asia": 21,
+          "AfricaME": 22,
+          "Russia": 45
+        },
+        "traffic": 1000
+      }
+    }
+  },
+  "aselsan-domestic-smartphone": {
+    "first_seen": "2026-09-30",
+    "status": "signal",
+    "weekly": {
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": 100,
+          "Russia": null
+        },
+        "traffic": 5000
+      }
+    }
+  },
+  "airbus-a350f-freighter": {
+    "first_seen": "2026-09-30",
+    "status": "signal",
+    "weekly": {
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 700
+      }
+    }
+  },
+  "inflation-cpi-check": {
+    "first_seen": "2026-09-30",
+    "status": "routine",
+    "weekly": {
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 5500
+      }
+    }
+  },
+  "renewable-energy-feed-in-interest": {
+    "first_seen": "2026-09-30",
+    "status": "routine",
+    "weekly": {
+      "2026-09-30": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 11000
+      }
+    }
+  },
+  "biometric-id-service-check": {
+    "first_seen": "2026-09-30",
+    "status": "routine",
+    "weekly": {
+      "2026-09-30": {
+        "interest_avg": 62,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": 100,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": 25
+        },
+        "traffic": 25000
+      }
+    }
+  },
+  "game-console-brand-interest": {
+    "first_seen": "2026-09-30",
+    "status": "routine",
+    "weekly": {
+      "2026-09-30": {
+        "interest_avg": 67,
+        "regions": {
+          "US": null,
+          "EU": 50,
+          "LatAm": 100,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": 50
+        },
+        "traffic": 2000
       }
     }
   }
