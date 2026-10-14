@@ -712,6 +712,19 @@
           "Russia": 40
         },
         "traffic": 40000
+      },
+      "2026-10-14": {
+        "interest_avg": 82,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": 63,
+          "Russia": null
+        },
+        "traffic": 51500
       }
     }
   },
@@ -1653,6 +1666,19 @@
           "Russia": null
         },
         "traffic": 16100
+      },
+      "2026-10-14": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": 100,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 3700
       }
     }
   },
@@ -1856,6 +1882,19 @@
           "Russia": 100
         },
         "traffic": 23000
+      },
+      "2026-10-14": {
+        "interest_avg": 100,
+        "regions": {
+          "US": 100,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 20000
       }
     }
   },
@@ -3484,6 +3523,19 @@
           "Russia": null
         },
         "traffic": 5000
+      },
+      "2026-10-14": {
+        "interest_avg": 60,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": 100,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": 20
+        },
+        "traffic": 1200
       }
     }
   },
@@ -3752,6 +3804,19 @@
           "Russia": null
         },
         "traffic": 2200
+      },
+      "2026-10-14": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": 100,
+          "Russia": null
+        },
+        "traffic": 2000
       }
     }
   },
@@ -4271,6 +4336,177 @@
           "Russia": null
         },
         "traffic": 5000
+      }
+    }
+  },
+  "trade-republic-pension-depot": {
+    "first_seen": "2026-10-14",
+    "status": "signal",
+    "weekly": {
+      "2026-10-14": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 20000
+      }
+    }
+  },
+  "toyota-tamaraw-modern-jeepney": {
+    "first_seen": "2026-10-14",
+    "status": "signal",
+    "weekly": {
+      "2026-10-14": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": 100,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 500
+      }
+    }
+  },
+  "yuka-food-scanner-app": {
+    "first_seen": "2026-10-14",
+    "status": "signal",
+    "weekly": {
+      "2026-10-14": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 5000
+      }
+    }
+  },
+  "apple-macbook-event-launch": {
+    "first_seen": "2026-10-14",
+    "status": "signal",
+    "weekly": {
+      "2026-10-14": {
+        "interest_avg": 100,
+        "regions": {
+          "US": 100,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 1000
+      }
+    }
+  },
+  "dragon-quest-xii-game": {
+    "first_seen": "2026-10-14",
+    "status": "signal",
+    "weekly": {
+      "2026-10-14": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 200
+      }
+    }
+  },
+  "gcash-ipo-philippines": {
+    "first_seen": "2026-10-14",
+    "status": "routine",
+    "weekly": {
+      "2026-10-14": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": 100,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 1000
+      }
+    }
+  },
+  "waipu-tv-streaming-service": {
+    "first_seen": "2026-10-14",
+    "status": "routine",
+    "weekly": {
+      "2026-10-14": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 1000
+      }
+    }
+  },
+  "artificial-intelligence-generic-interest": {
+    "first_seen": "2026-10-14",
+    "status": "routine",
+    "weekly": {
+      "2026-10-14": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": 100,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 4000
+      }
+    }
+  },
+  "government-benefit-payments": {
+    "first_seen": "2026-10-14",
+    "status": "routine",
+    "weekly": {
+      "2026-10-14": {
+        "interest_avg": 86,
+        "regions": {
+          "US": 79,
+          "EU": 100,
+          "LatAm": 79,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 65200
       }
     }
   }
