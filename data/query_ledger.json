@@ -725,6 +725,19 @@
           "Russia": null
         },
         "traffic": 51500
+      },
+      "2026-10-21": {
+        "interest_avg": 24,
+        "regions": {
+          "US": null,
+          "EU": 5,
+          "LatAm": 2,
+          "CIS": 100,
+          "Asia": null,
+          "AfricaME": 10,
+          "Russia": 5
+        },
+        "traffic": 24300
       }
     }
   },
@@ -852,6 +865,19 @@
           "Russia": null
         },
         "traffic": 34200
+      },
+      "2026-10-21": {
+        "interest_avg": 38,
+        "regions": {
+          "US": 43,
+          "EU": 1,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": 100,
+          "AfricaME": 22,
+          "Russia": 22
+        },
+        "traffic": 43600
       }
     }
   },
@@ -945,6 +971,19 @@
           "Russia": null
         },
         "traffic": 23300
+      },
+      "2026-10-21": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 12000
       }
     }
   },
@@ -1679,6 +1718,19 @@
           "Russia": null
         },
         "traffic": 3700
+      },
+      "2026-10-21": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": 100,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 24700
       }
     }
   },
@@ -1895,6 +1947,19 @@
           "Russia": null
         },
         "traffic": 20000
+      },
+      "2026-10-21": {
+        "interest_avg": 52,
+        "regions": {
+          "US": 100,
+          "EU": 5,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 4200
       }
     }
   },
@@ -3363,6 +3428,19 @@
           "Russia": null
         },
         "traffic": 102000
+      },
+      "2026-10-21": {
+        "interest_avg": 47,
+        "regions": {
+          "US": 77,
+          "EU": 10,
+          "LatAm": 100,
+          "CIS": null,
+          "Asia": 2,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 9800
       }
     }
   },
@@ -3536,6 +3614,19 @@
           "Russia": 20
         },
         "traffic": 1200
+      },
+      "2026-10-21": {
+        "interest_avg": 75,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": 50,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 1500
       }
     }
   },
@@ -4450,6 +4541,19 @@
           "Russia": null
         },
         "traffic": 1000
+      },
+      "2026-10-21": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": 100,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 5000
       }
     }
   },
@@ -4488,6 +4592,19 @@
           "Russia": null
         },
         "traffic": 4000
+      },
+      "2026-10-21": {
+        "interest_avg": 60,
+        "regions": {
+          "US": null,
+          "EU": 20,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": 100
+        },
+        "traffic": 2400
       }
     }
   },
@@ -4507,6 +4624,95 @@
           "Russia": null
         },
         "traffic": 65200
+      },
+      "2026-10-21": {
+        "interest_avg": 44,
+        "regions": {
+          "US": 100,
+          "EU": null,
+          "LatAm": 0,
+          "CIS": null,
+          "Asia": 32,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 29100
+      }
+    }
+  },
+  "spacex-spcx-stock-listing": {
+    "first_seen": "2026-10-21",
+    "status": "signal",
+    "weekly": {
+      "2026-10-21": {
+        "interest_avg": 38,
+        "regions": {
+          "US": 100,
+          "EU": 12,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": 1,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 85300
+      }
+    }
+  },
+  "terafab-chip-fab-project": {
+    "first_seen": "2026-10-21",
+    "status": "signal",
+    "weekly": {
+      "2026-10-21": {
+        "interest_avg": 100,
+        "regions": {
+          "US": 100,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 1000
+      }
+    }
+  },
+  "walmart-plus-membership": {
+    "first_seen": "2026-10-21",
+    "status": "routine",
+    "weekly": {
+      "2026-10-21": {
+        "interest_avg": 100,
+        "regions": {
+          "US": 100,
+          "EU": null,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 100000
+      }
+    }
+  },
+  "bizum-payment-app": {
+    "first_seen": "2026-10-21",
+    "status": "routine",
+    "weekly": {
+      "2026-10-21": {
+        "interest_avg": 100,
+        "regions": {
+          "US": null,
+          "EU": 100,
+          "LatAm": null,
+          "CIS": null,
+          "Asia": null,
+          "AfricaME": null,
+          "Russia": null
+        },
+        "traffic": 20000
       }
     }
   }
